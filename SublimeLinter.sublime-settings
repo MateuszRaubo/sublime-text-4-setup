@@ -1,0 +1,21 @@
+// SublimeLinter Settings - User
+{
+	"linters": {
+		"stylelint": {
+			"disable": false,
+			"args": [],
+			"excludes": [],
+			"env": {
+				"PATH": "~/.nvm/versions/node/v12.20.2/bin:$PATH"
+			},
+		},
+	},
+	
+	"paths": {
+		"linux": [],
+		"osx": [
+			"~/.nvm/versions/node/v12.20.2/bin",
+		],
+		"windows": []
+	},
+}
