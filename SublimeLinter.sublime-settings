@@ -1,6 +1,14 @@
 // SublimeLinter Settings - User
 {
 	"linters": {
+		"eslint": {
+			"disable": false,
+			"args": [],
+			"excludes": [],
+			"env": {
+				"PATH": "~/.nvm/versions/node/v12.20.2/bin:$PATH"
+			},
+		},
 		"stylelint": {
 			"disable": false,
 			"args": [],

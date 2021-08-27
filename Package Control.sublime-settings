@@ -6,10 +6,16 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AutoFileName",
+		"Breadcrumbs",
+		"CodeFormatter",
+		"Color Highlight",
 		"Emmet",
 		"ESLint-Formatter",
 		"GitGutter",
+		"HTMLBeautify",
 		"Laravel Blade Highlighter",
+		"MarkdownLivePreview",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
@@ -18,5 +24,6 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
 		"Terminal",
+		"Vue Syntax Highlight",
 	],
 }
